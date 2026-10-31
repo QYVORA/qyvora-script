@@ -1,6 +1,6 @@
 # qyvora-script
 
-**Status:** `CURRENT` · **Not a security tool**
+**Status:** `CURRENT` · **Version:** `v0.1.1` · **Not a security tool**
 **Last verified against implementation:** 2026-10-16
 
 `qyvora-script` is the shared scripting engine for the fourteen QYVORA
